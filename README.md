@@ -21,3 +21,6 @@ this repo is a minimal reproduction of the issue we are seeing with Centrify and
   [delete script (del.sh)](del.sh) does, on a Ubuntu 18.04 host OS system
 * after docker has been removed/purged and the system rebooted (necessary for a successful reinstall, in my experience),
   the [new script (new.sh)](new.sh) installs docker on Ubuntu 18.04 and runs `docker run hello-world` to verify docker install
+
+the fix branch https://github.com/smanders/centrifybomb/compare/fix shows the workaround and the commit message provides
+a URL with more detail
