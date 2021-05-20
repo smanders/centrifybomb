@@ -1,1 +1,1 @@
-docker container run --user=$(id -u ${USER}) --rm -it testit
+docker container run --user=$(id -u ${USER}) --rm -it cbomb
