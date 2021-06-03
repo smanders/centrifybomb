@@ -24,3 +24,5 @@ this repo is a minimal reproduction of the issue we are seeing with Centrify and
 
 the fix branch https://github.com/smanders/centrifybomb/compare/fix shows the workaround and the commit message provides
 a URL with more detail
+
+the realfix branch https://github.com/smanders/centrifybomb/compare/realfix shows the fix and the commit message provides more detail
